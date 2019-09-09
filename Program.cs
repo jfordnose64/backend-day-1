@@ -10,6 +10,15 @@ namespace backend_day_1
       var higher = 100m;
       var correctGuess = false;
 
+      Console.WriteLine("Play Number Guesser?");
+      var startInput = Console.ReadLine();
+      if (startInput == "y")
+      {
+        correctGuess = false;
+      }
+
+
+
       while (!correctGuess)
       {
         var guess = Math.Floor((lower + higher) / 2);
@@ -18,6 +27,14 @@ namespace backend_day_1
         if (input == "y")
         {
           correctGuess = true;
+          Console.WriteLine("I Won! Try Again?");
+          var winInput = Console.ReadLine();
+          if (winInput == "y")
+          {
+            correctGuess = false;
+            lower = 0m;
+            higher = 100m;
+          }
         }
         else if (input == "higher")
         {
