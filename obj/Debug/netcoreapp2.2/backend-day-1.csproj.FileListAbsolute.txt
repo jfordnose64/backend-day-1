@@ -1,0 +1,11 @@
+/Users/jacksonford/SDG/backend-day-1/bin/Debug/netcoreapp2.2/backend-day-1.deps.json
+/Users/jacksonford/SDG/backend-day-1/bin/Debug/netcoreapp2.2/backend-day-1.runtimeconfig.json
+/Users/jacksonford/SDG/backend-day-1/bin/Debug/netcoreapp2.2/backend-day-1.runtimeconfig.dev.json
+/Users/jacksonford/SDG/backend-day-1/bin/Debug/netcoreapp2.2/backend-day-1.dll
+/Users/jacksonford/SDG/backend-day-1/bin/Debug/netcoreapp2.2/backend-day-1.pdb
+/Users/jacksonford/SDG/backend-day-1/obj/Debug/netcoreapp2.2/backend-day-1.csprojAssemblyReference.cache
+/Users/jacksonford/SDG/backend-day-1/obj/Debug/netcoreapp2.2/backend-day-1.csproj.CoreCompileInputs.cache
+/Users/jacksonford/SDG/backend-day-1/obj/Debug/netcoreapp2.2/backend-day-1.AssemblyInfoInputs.cache
+/Users/jacksonford/SDG/backend-day-1/obj/Debug/netcoreapp2.2/backend-day-1.AssemblyInfo.cs
+/Users/jacksonford/SDG/backend-day-1/obj/Debug/netcoreapp2.2/backend-day-1.dll
+/Users/jacksonford/SDG/backend-day-1/obj/Debug/netcoreapp2.2/backend-day-1.pdb
